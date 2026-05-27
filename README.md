@@ -55,7 +55,7 @@ For the full workshop path, follow:
 notebooks/tutorial_series/00_Orientation_and_Setup.ipynb
 notebooks/tutorial_series/01_OpenCV_Webcam_Basics.ipynb
 ...
-notebooks/tutorial_series/11_AGM_Demo_Script_and_Reliability_Checklist.ipynb
+notebooks/tutorial_series/10_Final_Integration_Rebuild_The_Full_Project.ipynb
 ```
 
 ## Ethics Note

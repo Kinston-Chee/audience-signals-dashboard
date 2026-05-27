@@ -17,5 +17,3 @@
 - `tutorial_series/08_OpenCV_Dashboard_Overlay_Bars_and_Text.ipynb`
 - `tutorial_series/09_Optional_Hands_Module_for_PhonePosture_Heuristic.ipynb`
 - `tutorial_series/10_Final_Integration_Rebuild_The_Full_Project.ipynb`
-- `tutorial_series/11_AGM_Demo_Script_and_Reliability_Checklist.ipynb`
-
