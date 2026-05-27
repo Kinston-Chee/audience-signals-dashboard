@@ -19,19 +19,15 @@ The project teaches juniors how to turn webcam frames into simple, observable vi
 
 ```text
 .
-├── notebooks/
-│   ├── Audience_Signals_Dashboard.ipynb
-│   └── tutorial_series/
-│       ├── 00_Orientation_and_Setup.ipynb
-│       ├── 01_OpenCV_Webcam_Basics.ipynb
-│       └── ...
-├── scripts/
-│   ├── create_notebook.py
-│   ├── generate_curriculum_part1.py
-│   ├── generate_curriculum_part2.py
-│   └── generate_curriculum_part3.py
-├── requirements.txt
-└── README.md
+|-- notebooks/
+|   |-- Audience_Signals_Dashboard.ipynb
+|   |-- README.md
+|   `-- tutorial_series/
+|       |-- 00_Orientation_and_Setup.ipynb
+|       |-- 01_OpenCV_Webcam_Basics.ipynb
+|       `-- ...
+|-- requirements.txt
+`-- README.md
 ```
 
 ## Getting Started
@@ -69,4 +65,3 @@ This project focuses on observable computer vision signals. It should not be use
 ## For Club Juniors
 
 Run one notebook at a time, read the notes before each code cell, and press `q` to close OpenCV webcam windows when a lesson asks you to stop the live feed.
-
