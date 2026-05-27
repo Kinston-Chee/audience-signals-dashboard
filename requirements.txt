@@ -1,0 +1,7 @@
+opencv-python>=4.9
+mediapipe>=0.10
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+jupyterlab>=4.0
+
